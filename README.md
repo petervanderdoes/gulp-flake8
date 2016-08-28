@@ -10,7 +10,7 @@ This plugin wraps the flake8 binary for gulp and provides fancy and original rep
 
 ## Install
 
-    npm install gulp-flake8 --save-dev
+    npm install @petervanderdoes/gulp-flake8 --save-dev
 
 This plugin requires [flake8](http://flake8.pycqa.org/en/latest/#installation)
 to be installed.
