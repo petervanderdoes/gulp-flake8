@@ -31,8 +31,8 @@ const formatOutput = result => {
     }
   });
   return {
-    success: false,
-    errorCount: errors.length,
+    success: allErrors.length === 0,
+    errorCount: allErrors.length,
     errorList: allErrors,
   };
 };
