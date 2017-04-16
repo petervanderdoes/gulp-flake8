@@ -1,6 +1,28 @@
+
+[license]: /LICENSE
+[npm-image]: https://img.shields.io/npm/v/@petervanderdoes/gulp-flake8.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@petervanderdoes/gulp-flake8
+[downloads-image]: https://img.shields.io/npm/dm/@petervanderdoes/gulp-flake8.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/@petervanderdoes/gulp-flake8
+[semi-image]: https://img.shields.io/badge/code%20style-strict-brightgreen.svg?style=flat-square
+[semi-url]: https://github.com/Flet/semistandard
+[license-image]: https://img.shields.io/github/license/petervanderdoes/gulp-flake8.svg?style=flat-square
+[license-url]: /LICENSE
+[dependencies-image]: https://david-dm.org/petervanderdoes/gulp-flake8.svg?style=flat-square
+[dependencies-url]: https://david-dm.org/petervanderdoes/gulp-flake8
+[dev-dependencies-image]: https://david-dm.org/petervanderdoes/gulp-flake8/dev-status.svg?style=flat-square
+[dev-dependencies-url]: https://david-dm.org/petervanderdoes/gulp-flake8#info=devDependencies
+
 # gulp-flake8
 
-> [Flake8](https://gitlab.com/pycqa/flake8) plugin for [gulp](http://gulpjs.com).
+[![npm][npm-image]][npm-url]
+[![downloads][downloads-image]][downloads-url]
+[![js-semistandard-style][semi-image]][semi-url]
+[![license][license-image]][license-url]
+[![dependencies][dependencies-image]][dependencies-url]
+[![dev-dependencies][dev-dependencies-image]][dev-dependencies-url]
+
+[Flake8](https://gitlab.com/pycqa/flake8) plugin for [gulp](http://gulpjs.com).
 
 [Flake8](https://gitlab.com/pycqa/flake8) is a python tool that glues together
 pep8, pyflakes, mccabe, and third-party plugins to check the style and
