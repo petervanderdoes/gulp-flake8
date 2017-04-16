@@ -8,7 +8,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 #### 1.3.0-dev.1
 * Preparation for new development cycle.
 
-#### 1.3.0-dev.1
+#### 1.2.1
 * Update dependencies
 * Move to airbnb-base for eslint
 
